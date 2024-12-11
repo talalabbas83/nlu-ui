@@ -44,7 +44,7 @@ export default function QueryPage() {
     <div className='container mx-auto p-4'>
       <Card>
         <CardHeader>
-          <CardTitle>NLU Query Processdddor</CardTitle>
+          <CardTitle>NLU Query Processor</CardTitle>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className='space-y-4'>
